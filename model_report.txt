@@ -1,0 +1,10 @@
+              precision    recall  f1-score   support
+
+     B cells       0.90      0.58      0.71       139
+   Monocytes       1.00      1.00      1.00       149
+    NK cells       1.00      1.00      1.00        98
+     T cells       0.77      0.96      0.85       204
+
+    accuracy                           0.89       590
+   macro avg       0.92      0.88      0.89       590
+weighted avg       0.90      0.89      0.88       590
