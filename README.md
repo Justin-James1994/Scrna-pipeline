@@ -40,5 +40,5 @@ Cluster 1 → Monocytes (LYZ)
 Cluster 2 → B cells (MS4A1)
 Cluster 3 → NK cells (NKG7)
 
-## Author
-Your Name
+# Author
+Justin James Egahi
